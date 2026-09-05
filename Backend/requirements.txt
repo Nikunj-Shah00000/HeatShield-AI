@@ -1,0 +1,11 @@
+﻿pandas
+numpy
+requests
+python-dotenv
+pythermalcomfort
+scikit-learn
+matplotlib
+seaborn
+jupyter
+geopandas
+shapely
